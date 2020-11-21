@@ -5470,7 +5470,7 @@ made even triumph bitter to him, then you will repent; and regret for the
 irreparable change
 
   "will move
-  In hearts all rocky now, the late remorse of love."[1]
+  In hearts all rocky now, the late remorse of love."
 
 The stinging "remorse of love" now pierced her heart. She accused herself
 of his journey to —--his dangers--his imprisonment. She pictured
@@ -5917,8 +5917,6 @@ her a fitting grave. Sadly and slowly I stemmed my course from among the
 heaps of slain, and, guided by the twinkling lights of the town, at length
 reached —.
 
-[1] Lord Byron's Fourth Canto of Childe Harolde.
-[2] Shakspeare's Sonnets.
 
 ON my arrival, I found that an order had already gone forth for the army to
 proceed immediately towards —; and the troops which had
@@ -6077,7 +6075,7 @@ corruption.
   Cada piedra un piramide levanta,
   y cada flor costruye un monumento,
   cada edificio es un sepulcro altivo,
-  cada soldado un esqueleto vivo."[1]
+  cada soldado un esqueleto vivo."
 
 — accent was mournful,--he sighed deeply. "A few months ago," he
 continued, "I was thought to be dying; but life was strong within me. My
@@ -7181,7 +7179,7 @@ conversation; drawing near —, he proceeded to assure her that the
 joyful prospect of an earthly paradise after an hundred thousand years, was
 clouded to him by the knowledge that in a certain period of time after, an
 earthly hell or purgatory, would occur, when the ecliptic and equator would
-be at right angles.[1] Our party at length broke up; "We are all dreaming
+be at right angles. Our party at length broke up; "We are all dreaming
 this morning," said —, "it is as wise to discuss the probability of a
 visitation of the plague in our well-governed metropolis, as to calculate
 the centuries which must escape before we can grow pine-apples here in the
@@ -7425,7 +7423,7 @@ composed of transitory parts; wherein, by the disposition of a stupendous
 wisdom, moulding together the great mysterious incorporation of the human
 race, the whole, at one time, is never old, or middle-aged, or young, but,
 in a condition of unchangeable constancy, moves on through the varied
-tenour of perpetual decay, fall, renovation, and progression."[2]
+tenour of perpetual decay, fall, renovation, and progression."
 
 Willingly do I give place to thee, dear —! advance, offspring of
 tender love, child of our hopes; advance a soldier on the road to which I
@@ -7442,9 +7440,7 @@ becomingly the parts assigned to you! — your progress be uninterrupted
 and secure; born during the spring-tide of the hopes of man, may you lead
 up the summer to which no winter may succeed!
 
-[1] See an ingenious —, entitled, "The Mythological Astronomy of the
 Ancients Demonstrated," by Mackey, a shoemaker, of Norwich printed in 1822.
-[2] Burke's Reflections on the — Revolution.
 
 SOME disorder had surely crept into the course of the elements, destroying
 their benignant influence. The wind, prince of air, raged through his
@@ -8070,7 +8066,7 @@ contemplation, averse to excitement, a lowly student, a man of visions--
 but afford him worthy theme, and--
 
   Like to the lark at break of day arising,
-  From sullen earth, sings hymns at heaven's gate.[1]
+  From sullen earth, sings hymns at heaven's gate.
 
 so did he spring up from listlessness and unproductive thought, to the
 highest pitch of virtuous action.
@@ -8397,7 +8393,7 @@ contained no blessing unshowered upon us, but, alas!
   la fortuna
   deidad barbara importuna,
   oy cadaver y ayer flor,
-  no permanece jamas![1]
+  no permanece jamas!
 
 As I wandered on thus ruminating, a number of country people passed me.
 They seemed full of careful thought, and a few words of their conversation
@@ -8669,10 +8665,8 @@ voices, whose inarticulate and oracular sense forced belief upon me?
   Ere it is risen, sometimes paints its image
   In the atmosphere--so often do the spirits
   Of great events stride on before the events,
-  And in to-day already walks to-morrow.[2]
+  And in to-day already walks to-morrow.
 
-[1] Calderon de la —.
-[2] Coleridge's — of Schiller's Wallenstein.
 
 AFTER a long interval, I am again impelled by the restless spirit within me
 to continue my narration; but I must alter the mode which I have hitherto
@@ -8787,7 +8781,7 @@ apprehension of fear like a wide church-yard.
   Pisando la tierra dura
   de continuo el hombre està
   y cada passo que dà
-  es sobre su sepultura.[1]
+  es sobre su sepultura.
 
 Yet notwithstanding these disadvantages winter was breathing time; and we
 exerted ourselves to make the best of it. — might not revive with the
@@ -8938,7 +8932,7 @@ martins struck the sunny pools with their long, pointed wings, the new
 dropped lambs reposed on the young grass, the tender growth of leaves--
 
   Lifts its sweet head into the air, and feeds
-  A silent space with ever sprouting green.[3]
+  A silent space with ever sprouting green.
 
 Man himself seemed to regenerate, and feel the frost of winter yield to
 an elastic and warm renewal of life--reason told us that care and sorrow
@@ -9288,7 +9282,7 @@ wildly and passionately they sought to know what delights existence
 afforded, before they yielded to death, and
 
   Snatching their pleasures with rough strife
-  Thorough the iron gates of life,[4]
+  Thorough the iron gates of life,
 
 they defied the conquering pestilence to destroy what had been, or to
 erase even from their death-bed thoughts the sentiment of happiness
@@ -9508,7 +9502,7 @@ life resembles the wasting flame of the watch-light,
 
   Whose narrow fire
   Is shaken by the wind, and on whose edge
-  Devouring darkness hovers.[5]
+  Devouring darkness hovers.
 
 With eagerness one turns toward the east, with angry impatience
 one marks the unchequered darkness; the crowing of a cock, that
@@ -9537,7 +9531,7 @@ was
   As one
   In some lone watch-tower on the deep, awakened
   From soothing visions of the home he loves,
-  Trembling to hear the wrathful billows roar;[6]
+  Trembling to hear the wrathful billows roar;
 
 as one who has been cradled by a storm, and awakes to find the
 vessel sinking. Before, she had been visited by pangs of fear--now, she
@@ -9596,12 +9590,6 @@ attributes--life--life--the continuation of our animal mechanism--
 was the Alpha and Omega of the desires, the prayers, the prostrate ambition
 of human race.
 
-[1] Calderon de la —.
-[2] Wordsworth.
-[3] Keats.
-[4] Andrew Marvell.
-[5] The Cenci
-[6] The Brides' Tragedy, by T. L. Beddoes, Esq.
 
 HALF — was desolate, when — came, and the equinoctial winds
 swept over the earth, chilling the ardours of the unhealthy season. The
@@ -10060,7 +10048,7 @@ attributes. The very spirit of the — mythology inhabited my heart; I
 deified the uplands, glades, and streams, I
 
   Had sight of Proteus coming from the sea;
-  And heard old Triton blow his wreathed horn.[1]
+  And heard old Triton blow his wreathed horn.
 
 Strange, that while the earth preserved her monotonous course, I dwelt with
 ever-renewing wonder on her antique laws, and now that with excentric wheel
@@ -10123,7 +10111,7 @@ pleasure as our employing her in this way; she went beyond our desires,
 earnest, diligent, and unwearied,--
 
   Abra was ready ere we called her name,
-  And though we called another, Abra came.[2]
+  And though we called another, Abra came.
 
 It was my task each day to visit the various families assembled in our
 town, and when the weather permitted, I was glad to prolong my ride, and to
@@ -10247,11 +10235,8 @@ attends to its grave the dead comforter of humanity?
   Does not the sun call in his light? and day
   Like a thin exhalation melt away--
   Both wrapping up their beams in clouds to be
-  Themselves close mourners at this obsequie.[3]
+  Themselves close mourners at this obsequie.
 
-[1] Wordsworth.
-[2] Prior's "Solomon."
-[3] Cleveland's —.
 
 HEAR YOU not the rushing sound of the coming tempest? Do you not behold the
 clouds open, and destruction lurid and dire pour down on the blasted earth?
@@ -10278,7 +10263,7 @@ from her steps--
   With ills the land is rife, with ills the sea,
   Diseases haunt our frail humanity,
   Through noon, through night, on casual wing they glide,
-  Silent,--a voice the power all-wise denied.[1]
+  Silent,--a voice the power all-wise denied.
 
 Once man was a favourite of the —, as the royal psalmist sang, "—
 had made him a little lower than the angels, and had crowned him with glory
@@ -10563,10 +10548,8 @@ gone, and thou goest with them the oft trodden path that leads to oblivion,
 --
 
   Farewell, sad —, farewell, thy fatal glory
-  Is summed, cast up, and cancelled in this story.[2]
+  Is summed, cast up, and cancelled in this story.
 
-[1] Elton's translation of —.
-[2] Cleveland's —.
 
 IN the autumn of this year 2096, the spirit of emigration crept in among
 the few survivors, who, congregating from various parts of —, met in
@@ -12166,7 +12149,7 @@ overhanging the great sea of calamity--
   And frequent storms for evermore,
   (While from the west the loud winds rave,
   Or from the east, or mountains hoar)
-  The struck and tott'ring sand-bank lave.[1]
+  The struck and tott'ring sand-bank lave.
 
 It required more than human energy to bear up against the menaces of
 destruction that every where surrounded us.
@@ -13082,7 +13065,7 @@ of once frequented habitations, where,
 
   Through the flesh that wastes away
   Beneath the parching sun, the whitening bones
-  Start forth, and moulder in the sable dust.[2]
+  Start forth, and moulder in the sable dust.
 
 Sights like these had become--ah, woe the while! so familiar, that we had
 ceased to shudder, or spur our stung horses to sudden speed, as we passed
@@ -13324,8 +13307,6 @@ surviving humanity, and preceded by the mournful emblem of their recovered
 reason, they appeared before —, and again and for ever vowed obedience
 to his commands, and fidelity to his cause.
 
-[1] Shakespeare--Julius Caesar.
-[2] Elton's — of —'s "Shield of —."
 
 THESE events occupied so much time, that — had numbered more than half
 its days, before we again commenced our long-protracted journey. The day
@@ -13476,7 +13457,7 @@ race of man assumed dignity and authority. It was then no longer the mere
 gardener of earth, or the shepherd of her flocks; "it carried with it an
 imposing and majestic aspect; it had a pedigree and illustrious ancestors;
 it had its gallery of portraits, its monumental inscriptions, its records
-and titles."[1]
+and titles."
 
 This was all over, now that the ocean of death had sucked in the slackening
 tide, and its source was dried up. We first had bidden adieu to the state
@@ -13849,7 +13830,7 @@ walnut-tree gave place to the dark pine, whose musical branches swung in
 the wind, and whose upright forms had braved a thousand storms--till the
 verdant sod, the flowery dell, and shrubbery hill were exchanged for the
 sky-piercing, untrodden, seedless rock, "the bones of the world, waiting to
-be clothed with every thing necessary to give life and beauty."[1] Strange
+be clothed with every thing necessary to give life and beauty." Strange
 that we should seek shelter here! Surely, if, in those countries where
 earth was wont, like a tender mother, to nourish her children, we had found
 her a destroyer, we need not seek it here, where stricken by keen penury
@@ -14102,7 +14083,7 @@ radiant streams into the sunny deep. "For lo! winter is past, the rain is
 over and gone; the flowers appear on the earth, the time of the singing of
 birds is come, and the voice of the turtle is heard in our land; the fig
 tree putteth forth her green figs, and the vines, with the tender grape,
-give a good smell."[2] Thus was it in the time of the ancient regal poet;
+give a good smell." Thus was it in the time of the ancient regal poet;
 thus was it now.
 
 Yet how could we miserable hail the approach of this delightful season? We
@@ -14262,8 +14243,6 @@ embowering shades of this abode of beauty; to calm bay and noisy waterfall;
 to —'s little grave we bade farewell! and then, with heavy hearts, we
 departed on our pilgrimage towards —.
 
-[1] Mary Wollstonecraft's Letters from Norway.
-[2] Solomon's Song.
 
 NOW--soft awhile--have I arrived so near the end? Yes! it is all over
 now--a step or two over those new made graves, and the wearisome way is

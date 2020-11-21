@@ -1,5 +1,6 @@
 import os, re, sys
 from collections import defaultdict
+from os import path
 
 # Regexes for processing.
 name = re.compile("[a-z] +([A-Z][a-zA-Z]+)")
@@ -7,6 +8,8 @@ justname = re.compile("[A-Z][a-zA-Z]+")
 punct = re.compile("[^-' a-zA-Z]+")
 dash = re.compile("--")
 possess = re.compile("'s")
+endnote = re.compile("\[[ivxlcdm\d\s]+\]") # roman or arabic numeraled endnotes, as in Shelley's "Mathilda"
+footnote = re.compile("^\[[ivxlcdm\d\s]+\]") # cooresponds to endnote
 
 # novel should be an iterable text object.  Returns the
 # processed text of novel as a string.
@@ -65,17 +68,29 @@ def process(novel):
                 line = line.replace(m, "—")
         return line
 
+    # Remove footnote links
+    def remove_notes(line):
+        matches = {str(m.group(0)) for m in footnote.finditer(line)}
+        for m in matches:
+            line = ""
+        matches = {str(m.group(0)) for m in endnote.finditer(line)}
+        for m in matches:
+            line = line.replace(m, "")
+        return line
+
     # Build up the paragraphs with the names cleaned.
     return "\n".join([
         ''.join([
-            clean_names(l) for l in p
+            remove_notes(clean_names(l)) for l in p
         ])
         for p in pars
     ])
 
 # Process all available novels.
-for fn in os.listdir("hacked/"):
-    with open(f"hacked/{fn}", "r") as f_in:
+prefix = "hacked"
+for fn in os.listdir(prefix):
+    with open(path.join(prefix, fn), "r", encoding="utf-8") as f_in:
         text = process(f_in)
-        with open(fn, "w") as f_out:
+        outname = fn if fn in ['austen-northanger-abbey.txt', 'austen-pride-and-prejudice.txt', 'shelley-frankenstein.txt', 'shelley-the-last-man.txt'] else ('addtl-'+fn)
+        with open(outname, "w", encoding="utf-8") as f_out:
             f_out.write(text)
