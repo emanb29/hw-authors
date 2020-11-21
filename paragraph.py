@@ -1,5 +1,6 @@
 import os, re, sys
 from collections import defaultdict
+from os import path
 
 # Regexes for processing.
 name = re.compile("[a-z] +([A-Z][a-zA-Z]+)")
@@ -74,8 +75,9 @@ def process(novel):
     ])
 
 # Process all available novels.
-for fn in os.listdir("hacked/"):
-    with open(f"hacked/{fn}", "r") as f_in:
+prefix = "hacked"
+for fn in os.listdir(prefix):
+    with open(path.join(prefix, fn), "r", encoding="utf-8") as f_in:
         text = process(f_in)
         with open(fn, "w") as f_out:
             f_out.write(text)
