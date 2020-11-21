@@ -3,6 +3,7 @@ from collections import defaultdict
 
 # Regexes for processing.
 name = re.compile("[a-z] +([A-Z][a-zA-Z]+)")
+justname = re.compile("[A-Z][a-zA-Z]+")
 punct = re.compile("[^-' a-zA-Z]+")
 dash = re.compile("--")
 possess = re.compile("'s")
@@ -38,33 +39,31 @@ def process(novel):
     for p in pars:
         text = ' '.join(p)
         for g in name.finditer(text):
-            pnames[g.group(1)] += 1
+            w = g.group(1)
+            if len(w) > 2:
+                pnames[w] += 1
 
     # Construct the set of names.
     propnames = {n for n in pnames if pnames[n] >= 2}
     propnames -= {
-        "Sir",
+        "Lady",
+        "Lord",
+        "Madam",
+        "Madame",
         "Miss",
         "Mr",
         "Mrs",
-        "Madam",
-        "Madame",
-        "Lord",
-        "Lady",
+        "Sir",
+        "The",
     }
 
     # Substitute names.
     def clean_names(line):
-        line = dash.sub(" ", line)
-        line = punct.sub(" ", line)
-        cleaned = line.split()
-        for i in range(len(cleaned)):
-            w = cleaned[i]
-            if w in propnames:
-                cleaned[i] = "—"
-            elif possess.sub("", w) in propnames:
-                cleaned[i] = "—'s"
-        return " ".join(cleaned) + "\n"
+        matches = {str(m.group(0)) for m in justname.finditer(line)}
+        for m in matches:
+            if m in propnames:
+                line = line.replace(m, "—")
+        return line
 
     # Build up the paragraphs with the names cleaned.
     return "\n".join([
